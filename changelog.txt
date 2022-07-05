@@ -1,0 +1,11 @@
+Version 4.0.0 - July 01, 2022 - Reversion 15:
+- release OS 2.0 packages
+
+Version 3.0.0 - March 09, 2021 - Reversion 12:
+- Update filer
+
+Version 2.0.0 - March 30, 2020 - Reversion 11:
+- Update Product detail page support videos.
+
+Version 1.0.0 - Jun 12, 2018 - Reversion 10:
+- Initial release
